@@ -1,4 +1,4 @@
-# Hi Everyone👋! I'm Atul Gupta
+# Hi Everyone👋! I'm Prayansh Gupta
 
 # 💫 About Me:
 
