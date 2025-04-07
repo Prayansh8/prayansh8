@@ -65,10 +65,4 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Prayansh8/ae59feb2-7fb1-4e46-bbe6-d20892fdcdfb.png" /></a>
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica)
-
-## 👀 Profile View:
-
-<img src="https://profile-counter.glitch.me/Prayansh8/count.svg"/>
