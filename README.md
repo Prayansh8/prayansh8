@@ -61,8 +61,8 @@
 
 <!-- [![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atulguptag&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/atulguptag/github-readme-activity-graph) -->
 
-## ✨ Languages I used mostly:
+<!-- ## ✨ Languages I used mostly:
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Prayansh8/ae59feb2-7fb1-4e46-bbe6-d20892fdcdfb.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Prayansh8/ae59feb2-7fb1-4e46-bbe6-d20892fdcdfb.png" /></a> -->
 
 
